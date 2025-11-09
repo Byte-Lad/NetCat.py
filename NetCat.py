@@ -237,3 +237,13 @@ def client_handler(client_socket):
 
 if __name__ == "__main__":
 	main()
+
+
+
+
+
+
+
+# Don't steal my code, buddy.
+
+# HIHI :)
